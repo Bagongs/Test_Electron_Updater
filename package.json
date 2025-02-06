@@ -19,8 +19,9 @@
     },
     "publish": [
       {
-        "provider": "generic",
-        "url": "http://localhost:8000/"
+        "provider": "github",
+        "owner": "Bagongs",
+        "repo": "Test_Electron_Updater"
       }
     ]
   },
