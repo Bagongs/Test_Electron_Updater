@@ -42,7 +42,7 @@ function App() {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.heading}>Electron-Vite React OTA Update Version 1.0.0</h1>
+      <h1 style={styles.heading}>Electron-Vite React OTA Update Version 1.0.1</h1>
       <p style={styles.description}>
         Aplikasi ini mendukung pembaruan otomatis menggunakan Electron-Updater.
       </p>
